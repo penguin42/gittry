@@ -16,3 +16,9 @@ int c(void x) {
   c
 }
 
+int d(void x) {
+  lots of dddd-irity
+  d
+  d
+}
+
