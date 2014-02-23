@@ -10,3 +10,9 @@ int b(void x) {
   b
 }
 
+int c(void x) {
+  lots of cccc-irity
+  c
+  c
+}
+
