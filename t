@@ -4,3 +4,9 @@ int a(void x) {
   a
 }
 
+int b(void x) {
+  lots of bbbb-irity
+  b
+  b
+}
+
