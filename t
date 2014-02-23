@@ -22,3 +22,9 @@ int d(void x) {
   d
 }
 
+int e(void x) {
+  lots of eeee-irity
+  e
+  e
+}
+
